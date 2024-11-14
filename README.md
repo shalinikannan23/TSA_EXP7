@@ -80,16 +80,29 @@ plt.show()
 
 ### OUTPUT:
 
-GIVEN DATA
-![image](https://github.com/user-attachments/assets/732427d1-c2c9-4e9f-a941-33f8859da423)
+<table>
+  <tr>
+    <td style="width:50%">
+      <h3>GIVEN DATA</h3>
+      <img src="https://github.com/user-attachments/assets/732427d1-c2c9-4e9f-a941-33f8859da423" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>PACF</h3>
+      <img src="https://github.com/user-attachments/assets/454fdf41-0c96-403e-8130-9760b570bd6c" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%">
+      <h3>ACF</h3>
+      <img src="https://github.com/user-attachments/assets/b46e9bde-80d4-4dda-b5c2-0f04ee7ebd0a" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>PREDICTION</h3>
+      <img src="https://github.com/user-attachments/assets/760c8dfe-5423-4abc-8404-6d83026d775f" style="width:48%; height:auto;">
+    </td>
+  </tr>
+</table>
 
-
-PACF - ACF
-![image](https://github.com/user-attachments/assets/454fdf41-0c96-403e-8130-9760b570bd6c)
-![image](https://github.com/user-attachments/assets/b46e9bde-80d4-4dda-b5c2-0f04ee7ebd0a)
-
-PREDICTION
-![image](https://github.com/user-attachments/assets/760c8dfe-5423-4abc-8404-6d83026d775f)
 
 
 ### RESULT:
